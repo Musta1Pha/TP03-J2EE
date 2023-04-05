@@ -1,4 +1,4 @@
-#Activité 03 - Servlet JSP , Spring MVC Thymeleaf (Part 01 - Part 02)
+# Activité 03 - Servlet JSP , Spring MVC Thymeleaf (Part 01 - Part 02)
 
 1 - Liste des Patients : 
 ![Index](https://user-images.githubusercontent.com/91842692/229957038-b5d5b0db-dcd1-4a89-9f68-0dc8a459058e.PNG)
